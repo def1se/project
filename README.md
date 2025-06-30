@@ -1,2 +1,1 @@
-# project
-fewfekfjeirfjerfjeorfeoj
+# Тренировка работы с гитхабом
